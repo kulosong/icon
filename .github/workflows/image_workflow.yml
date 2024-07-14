@@ -5,9 +5,9 @@
 name: Image Workflow
 
 on:
-#  push:
-#    paths:
-#      - 'tubiao/**' # 监视 tubiao 文件夹及其子文件夹下的内容
+  push:
+    paths:
+      - 'tubiao/**' # 监视 tubiao 文件夹及其子文件夹下的内容
 #  pull_request:
 #    paths:
 #      - 'tubiao/**' # 监视 tubiao 文件夹及其子文件夹下的内容
