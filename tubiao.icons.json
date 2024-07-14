@@ -1,0 +1,10 @@
+{
+  "name": "自用图标订阅",
+  "description": "收集一些自己常用的图标",
+  "icons": [
+    {
+      "name": "yeshayun.png",
+      "url": "https://raw.githubusercontent.com/kulosong/icon/main/tubiao/yeshayun.png"
+    }
+  ]
+}
