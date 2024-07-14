@@ -3,6 +3,10 @@
   "description": "收集一些自己常用的图标",
   "icons": [
     {
+      "name": "Claude.png",
+      "url": "https://raw.githubusercontent.com/kulosong/icon/main/tubiao/Claude.png"
+    },
+    {
       "name": "yeshayun.png",
       "url": "https://raw.githubusercontent.com/kulosong/icon/main/tubiao/yeshayun.png"
     }
