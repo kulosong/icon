@@ -3,6 +3,10 @@
   "description": "收集一些自己常用的图标",
   "icons": [
     {
+      "name": "Fancy-.png",
+      "url": "https://raw.githubusercontent.com/kulosong/icon/main/tubiao/Fancy-.png"
+    },
+    {
       "name": "FlyintPro.png",
       "url": "https://raw.githubusercontent.com/kulosong/icon/main/tubiao/FlyintPro.png"
     },
