@@ -3,20 +3,24 @@
   "description": "收集一些自己常用的图标",
   "icons": [
     {
+      "name": "yeshayun.png",
+      "url": "https://raw.githubusercontent.com/kulosong/icon/main/tubiao/yeshayun.png"
+    },
+    {
       "name": "Fancy-.png",
       "url": "https://raw.githubusercontent.com/kulosong/icon/main/tubiao/Fancy-.png"
+    },
+    {
+      "name": "Claude.png",
+      "url": "https://raw.githubusercontent.com/kulosong/icon/main/tubiao/Claude.png"
     },
     {
       "name": "FlyintPro.png",
       "url": "https://raw.githubusercontent.com/kulosong/icon/main/tubiao/FlyintPro.png"
     },
     {
-      "name": "yeshayun.png",
-      "url": "https://raw.githubusercontent.com/kulosong/icon/main/tubiao/yeshayun.png"
-    },
-    {
-      "name": "Claude.png",
-      "url": "https://raw.githubusercontent.com/kulosong/icon/main/tubiao/Claude.png"
+      "name": "ikuuu.png",
+      "url": "https://raw.githubusercontent.com/kulosong/icon/main/tubiao/ikuuu.png"
     }
   ]
 }
